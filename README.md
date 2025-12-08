@@ -18,7 +18,7 @@ Besides, you can also choose to deploy the data locally.
 We have uploaded various data formats of RetiGraph. Please select the appropriate one according to your needs.
 * Excel Document: RetiGraph.xlsx
 * CSV Document: RetiGraph_relation.csv
-* APOC document: RetiGraph.db.dump
+* APOC document: RetiGraph.dump.db
 
 ## Requirements
 * python==3.8.0
