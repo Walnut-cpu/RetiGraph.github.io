@@ -5,7 +5,7 @@ It covers a total of 12 types of medical entities including Disease, Synonym, St
 
 We sincerely invite all medical researchers and medical practitioners to read and use it.
 
-## Graph access
+## KG access
 We have provided an online access page for RetiGraph. You can access it through the following link: https://neo4j.3446740.xyz/
 
 Besides, you can also choose to deploy the data locally.
