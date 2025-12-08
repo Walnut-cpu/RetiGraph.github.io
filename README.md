@@ -3,7 +3,11 @@ RetiGraph is an eye disease knowledge graph constructed based on a large languag
 
 ## Contents
 - `/dataset` -
-- 
+
+## Access
+We have provided an online access page for RetiGraph. You can access it through the following link: https://neo4j.3446740.xyz/
+
+Besides, you can also choose to deploy the data locally.
 
 ## Dataset
 We have uploaded various data formats of RetiGraph. Please select the appropriate one according to your needs.
