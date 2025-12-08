@@ -2,9 +2,9 @@
 RetiGraph is an eye disease knowledge graph constructed based on a large language model, covering 13 categories and 732 types of eye diseases, including both common and rare eye diseases.
 
 # Requirement
-python==3.8.0
-tqdm==4.67.1
-py2neo==2021.2.4
+*python==3.8.0
+*tqdm==4.67.1
+*py2neo==2021.2.4
 
 
 # Citation
