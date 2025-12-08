@@ -1,19 +1,20 @@
 # RetiGraph
 RetiGraph is an eye disease knowledge graph constructed based on a large language model, covering 13 categories and 732 types of eye diseases, including both common and rare eye diseases.
 
-## Contents
-- `/dataset` -
-
 ## Graph access
 We have provided an online access page for RetiGraph. You can access it through the following link: https://neo4j.3446740.xyz/
 
 Besides, you can also choose to deploy the data locally.
 
+## Contents
+- `/Dataset` -Store the data information of RetiGraph
+- `/Data processing` -The method for importing data into Neo4j Community
+
 ## Dataset
 We have uploaded various data formats of RetiGraph. Please select the appropriate one according to your needs.
-* Excel: RetiGraph.xlsx
-* CSV: RetiGraph_relation.csv
-* APOC document: RetiGraph.db
+* Excel Document: RetiGraph.xlsx
+* CSV Document: RetiGraph_relation.csv
+* APOC document: RetiGraph.db.dump
 
 ## Requirements
 * python==3.8.0
