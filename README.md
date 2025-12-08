@@ -1,7 +1,9 @@
 # RetiGraph
-RetiGraph is a retinal disease knowledge graph constructed based on a large language model (NotebookLM and ChatGPT4o), covering 13 categories and 732 types of retinal diseases, including both common and rare ones. It covers a total of 12 types of medical entities including Disease, Synonym, Staging and Typing, OCT sign, Symptom, Physical sign, Gene, Differential diagnosis, Complication, Etiology, Related disease and Treatment. 
+RetiGraph is a retinal disease knowledge graph constructed based on a large language model (NotebookLM and ChatGPT4o), covering 13 categories and 732 types of retinal diseases, including both common and rare ones. 
 
-We sincerely invite all medical researchers to read and use it.
+It covers a total of 12 types of medical entities including Disease, Synonym, Staging and Typing, OCT sign, Symptom, Physical sign, Gene, Differential diagnosis, Complication, Etiology, Related disease and Treatment. 
+
+We sincerely invite all medical researchers and medical practitioners to read and use it.
 
 ## Graph access
 We have provided an online access page for RetiGraph. You can access it through the following link: https://neo4j.3446740.xyz/
